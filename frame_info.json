@@ -1,0 +1,50 @@
+[
+    {
+        "camera_id": 0,
+        "frame_id": 1,
+        "geo_location": "latitude: 123.456, longitude: 789.012",
+        "image_path": "output_frames\\frame_1.jpg"
+    },
+    {
+        "camera_id": 0,
+        "frame_id": 2,
+        "geo_location": "latitude: 123.456, longitude: 789.012",
+        "image_path": "output_frames\\frame_2.jpg"
+    },
+    {
+        "camera_id": 0,
+        "frame_id": 3,
+        "geo_location": "latitude: 123.456, longitude: 789.012",
+        "image_path": "output_frames\\frame_3.jpg"
+    },
+    {
+        "camera_id": 0,
+        "frame_id": 4,
+        "geo_location": "latitude: 123.456, longitude: 789.012",
+        "image_path": "output_frames\\frame_4.jpg"
+    },
+    {
+        "camera_id": 0,
+        "frame_id": 5,
+        "geo_location": "latitude: 123.456, longitude: 789.012",
+        "image_path": "output_frames\\frame_5.jpg"
+    },
+    {
+        "camera_id": 0,
+        "frame_id": 6,
+        "geo_location": "latitude: 123.456, longitude: 789.012",
+        "image_path": "output_frames\\frame_6.jpg"
+    },
+    {
+        "camera_id": 0,
+        "frame_id": 7,
+        "geo_location": "latitude: 123.456, longitude: 789.012",
+        "image_path": "output_frames\\frame_7.jpg"
+    },
+    {
+        "camera_id": 0,
+        "frame_id": 8,
+        "geo_location": "latitude: 123.456, longitude: 789.012",
+        "image_path": "output_frames\\frame_8.jpg"
+    }
+]
