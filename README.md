@@ -1,3 +1,2 @@
 `---`
-```python
-# include::connc.py[]
+you [connc.py](connc.py) file.
